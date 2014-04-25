@@ -1,0 +1,5 @@
+python-flask-oauth (0.13) precise; urgency=low
+
+  * Debianization
+
+ -- Aleksey Rembish <alex@rembish.org>  Fri, 25 Apr 2014 15:35:25 +0200

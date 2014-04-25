@@ -1,5 +1,9 @@
-.DS_Store
+build
+debian/files
+debian/substvars
+debian/python-flask-oauth*
+dist
+docs/_build
+*.egg-info
 *.pyc
 *.pyo
-docs/_build
-dist
